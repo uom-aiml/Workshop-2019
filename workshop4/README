@@ -1,0 +1,3 @@
+Here, we will use an improper method for image treatement by flattening all the pixels into one big array.
+This method can give decent results but will not yield to the high accuracy current methods provide.
+In the following workshop, we will discuss more why it is necessary to use convolution when we face object recognition.
