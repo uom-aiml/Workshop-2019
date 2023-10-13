@@ -2,8 +2,6 @@
 
 Welcome to the official repository of the AI & ML Society of Manchester's workshops! Dive in to explore, review, and solidify the concepts we've covered.
 
-![AI & ML Society Logo]([https://scontent-cdg4-2.xx.fbcdn.net/v/t39.30808-6/326333136_576631750635237_2072601500025666971_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=5f2048&_nc_ohc=AbnpRDwmHroAX8SiFv9&_nc_ht=scontent-cdg4-2.xx&oh=00_AfBA5F4__H55bPd-jvS-z52A4G_DTVqzRG3sdIsm__yycw&oe=652E86BB])
-
 ## 📚 Repository Structure
 
 Each workshop's content is meticulously organized into its designated folder. To maximize understanding and fluency, it's recommended to traverse the workshops in chronological order.
