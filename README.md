@@ -2,7 +2,7 @@
 
 Welcome to the official repository of the AI & ML Society of Manchester's workshops! Dive in to explore, review, and solidify the concepts we've covered.
 
-![AI & ML Society Logo](link_to_your_logo_or_relevant_image.jpg)
+![AI & ML Society Logo]([link_to_your_logo_or_relevant_image.jpg](https://www.facebook.com/photo/?fbid=552602293578657&set=a.552602266911993))
 
 ## 📚 Repository Structure
 
